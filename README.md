@@ -8,6 +8,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=flat-square&logo=google-chrome&logoColor=white)](https://portofolio-akbarr.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbar-maulana-3961ba376/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akbarmln2347@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/akbrmln._/?utm_source=qr&igsh=aHJpNnhreTNnemc5#)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Akbarmln23)
 
 </div>
 
@@ -37,7 +39,15 @@ const akbar = {
 
 </div>
 
-### 📊 GitHub Stats
+### � Featured Projects
+
+<div align="center">
+
+[![Revou-CCSE](https://github-readme-stats.vercel.app/api/pin/?username=Nineteenwishes&repo=Revou-CCSE&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/Nineteenwishes/Revou-CCSE)
+
+</div>
+
+### �📊 GitHub Stats
 
 <div align="center">
 
