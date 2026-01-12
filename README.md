@@ -39,7 +39,7 @@ const akbar = {
 
 </div>
 
-### � Featured Projects
+### 🚀 Featured Projects
 
 <div align="center">
 
@@ -47,7 +47,7 @@ const akbar = {
 
 </div>
 
-### �📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
