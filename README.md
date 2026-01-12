@@ -1,133 +1,57 @@
 <div align="center">
 
-<!-- Graffiti Style Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=AKBAR%20MAULANA&fontSize=70&color=0:667eea,100:764ba2&stroke=ffffff&strokeWidth=2&animation=fadeIn&desc=Web%20Developer%20%7C%20Indonesia%20🇮🇩&descAlignY=75&descAlign=50"/>
+<!-- Simple Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=667EEA&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Akbar+Maulana;Web+Developer+%F0%9F%9A%80;Next.js+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 
-<!-- Animated Tech Stack Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Next.js+%E2%9A%A1+React+%E2%9A%A1+TypeScript;Building+Digital+Experiences+%F0%9F%9A%80;Web+Developer+Intern+%40+Ashari+Tech" alt="Typing SVG" />
+**Web Developer Intern @ Ashari Tech | Indonesia 🇮🇩**
 
-<!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/🎨_PORTFOLIO-667eea?style=for-the-badge&logoColor=white)](https://portofolio-akbarr.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbar-maulana-3961ba376/)
-[![Email](https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akbarmln2347@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nineteenwishes&color=667eea&style=for-the-badge&label=VISITORS)
-![Followers](https://img.shields.io/github/followers/Nineteenwishes?style=for-the-badge&color=764ba2&labelColor=667eea)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=flat-square&logo=google-chrome&logoColor=white)](https://portofolio-akbarr.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbar-maulana-3961ba376/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akbarmln2347@gmail.com)
 
 </div>
 
-<br>
+---
 
-<!-- Neon Style Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🎯 QUICK FACTS
-
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+### 👨‍💻 About Me
 
 ```typescript
-const developer = {
-  name: "Akbar Maulana",
-  role: "Web Developer Intern 🚀",
-  company: "Ashari Tech",
+const akbar = {
+  role: "Web Developer Intern",
   location: "Indonesia 🇮🇩",
-  code: ["TypeScript", "JavaScript", "React"],
-  focus: ["Next.js", "UI/UX", "Performance"],
-  challenge: "Building products that matter ✨"
+  focus: ["Next.js", "React", "TypeScript"],
+  learning: ["Backend Integration", "System Design"],
+  passion: "Building beautiful interfaces ✨"
 };
 ```
 
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ TECH ARSENAL
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,nodejs,git,github,vscode,vercel&perline=6&theme=dark" />
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GITHUB STATS
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nineteenwishes&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=fff&ring_color=667eea" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nineteenwishes&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f59e0b&currStreakLabel=764ba2" />
+![](https://github-readme-stats.vercel.app/api?username=Nineteenwishes&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nineteenwishes&theme=radical&hide_border=true&background=0d1117)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nineteenwishes&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=fff" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Nineteenwishes&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=fff" />
-
-<!-- Activity Graph with Graffiti Colors -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nineteenwishes&custom_title=Contribution%20Graph&bg_color=0D1117&color=667eea&line=764ba2&point=f59e0b&area=true&hide_border=true&area_color=667eea" width="98%"/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Nineteenwishes&theme=github-compact&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 FEATURED PROJECTS
+---
 
 <div align="center">
 
-<a href="https://portofolio-akbarr.vercel.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nineteenwishes&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=fff" />
-</a>
-
-</div>
-
-<details>
-<summary>📌 <b>More Projects</b></summary>
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| 🎨 **Portfolio V2** | Next.js • Tailwind | ✅ Live |
-| 💼 **Intern Dashboard** | React • TypeScript | 🚧 Building |
-| 🧩 **Component Library** | React • Storybook | 📝 Planning |
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nineteenwishes&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nineteenwishes/Nineteenwishes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nineteenwishes/Nineteenwishes/output/github-contribution-grid-snake.svg">
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Nineteenwishes/Nineteenwishes/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### 💭 DEV WISDOM
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" />
-
-<br>
-
-<!-- Graffiti Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
-
-**💙 Crafted with passion by [Akbar Maulana](https://github.com/Nineteenwishes)**
+💙 **Open for collaboration and opportunities**
 
 </div>
